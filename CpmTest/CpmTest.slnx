@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Test1/Test1.csproj" />
+  <Project Path="Test2/Test2.csproj" Id="3ca79818-01e3-4296-b667-4563d978274a" />
+</Solution>
